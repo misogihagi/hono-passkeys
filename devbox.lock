@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "editorconfig-checker@latest": {
+      "last_modified": "2025-05-16T20:19:48Z",
+      "resolved": "github:NixOS/nixpkgs/12a55407652e04dcf2309436eb06fef0d3713ef3#editorconfig-checker",
+      "source": "devbox-search",
+      "version": "3.3.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vy2a8k50pg4yf0n33h4wkvdpb6a20xbi-editorconfig-checker-3.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vy2a8k50pg4yf0n33h4wkvdpb6a20xbi-editorconfig-checker-3.3.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yy2l4whcyg21dc7lcllk0cddwiy36n2y-editorconfig-checker-3.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yy2l4whcyg21dc7lcllk0cddwiy36n2y-editorconfig-checker-3.3.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7j4mqpf0f735knpd2ndmsqvmijq5qb5c-editorconfig-checker-3.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7j4mqpf0f735knpd2ndmsqvmijq5qb5c-editorconfig-checker-3.3.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/2gs4hd86xw9gi922nb01vingkj5iqnfy-editorconfig-checker-3.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/2gs4hd86xw9gi922nb01vingkj5iqnfy-editorconfig-checker-3.3.0"
+        }
+      }
+    }
+  }
+}
