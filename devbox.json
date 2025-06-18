@@ -10,6 +10,10 @@
       "echo 'Welcome to devbox!' > /dev/null"
     ],
     "scripts": {
+      "check": [
+        "cspell .",
+        "typos ."
+      ],
       "test": [
         "echo \"Error: no test specified\" && exit 1"
       ]
