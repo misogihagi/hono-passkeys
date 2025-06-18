@@ -1,0 +1,7 @@
+{
+    "devbox.autoShellOnTerminal": true,
+    "editor.formatOnSave": true,
+    "git.commandsToLog": [
+        "commit"
+    ]
+}
