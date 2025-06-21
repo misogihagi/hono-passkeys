@@ -3,7 +3,8 @@
   "packages": [
     "editorconfig-checker@latest",
     "nodePackages.cspell@latest",
-    "typos@latest"
+    "typos@latest",
+    "lefthook@latest"
   ],
   "shell": {
     "init_hook": [

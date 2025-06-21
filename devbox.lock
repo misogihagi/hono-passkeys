@@ -53,6 +53,54 @@
       "last_modified": "2025-05-22T23:55:03Z",
       "resolved": "github:NixOS/nixpkgs/fe51d34885f7b5e3e7b59572796e1bcb427eccb1?lastModified=1747958103&narHash=sha256-qmmFCrfBwSHoWw7cVK4Aj%2Bfns%2Bc54EBP8cGqp%2FyK410%3D"
     },
+    "lefthook@latest": {
+      "last_modified": "2025-06-18T03:01:18Z",
+      "resolved": "github:NixOS/nixpkgs/5395fb3ab3f97b9b7abca147249fa2e8ed27b192#lefthook",
+      "source": "devbox-search",
+      "version": "1.11.14",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mgmpjzmc6wvq6chknlygcck9cs181b0c-lefthook-1.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mgmpjzmc6wvq6chknlygcck9cs181b0c-lefthook-1.11.14"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/11vpyfw0yzrmcgyf658wrbm9z3kxxx47-lefthook-1.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/11vpyfw0yzrmcgyf658wrbm9z3kxxx47-lefthook-1.11.14"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i3ahsfxck4vyv41xpxm6sjdnxy1w5b82-lefthook-1.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/i3ahsfxck4vyv41xpxm6sjdnxy1w5b82-lefthook-1.11.14"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/43vj3ncn3yj2hbh9x73vgxgxkkvncfvv-lefthook-1.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/43vj3ncn3yj2hbh9x73vgxgxkkvncfvv-lefthook-1.11.14"
+        }
+      }
+    },
     "nodePackages.cspell@latest": {
       "last_modified": "2025-05-21T18:43:04Z",
       "resolved": "github:NixOS/nixpkgs/8c441601c43232976179eac52dde704c8bdf81ed#nodePackages.cspell",
