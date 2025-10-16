@@ -1,25 +1,25 @@
 {
-    "ignoreWords": [
-        "devbox",
-        "adrowse",
-        "pyadr",
-        "Jetify",
-        "nixpkgs",
-        "nixos",
-        "numtide",
-        "pkgs",
-        "direnv",
-        "envrc",
-        "CICD",
-        "Enno",
-        "PRUV",
-        "Shodo",
-        "Wordrabbit",
-        "typoless",
-        "ATOK",
-        "Nygard",
-	"lefthook",
-	"gitmoji",
-	"setlocale"
-    ]
+  "ignoreWords": [
+    "devbox",
+    "adrowse",
+    "pyadr",
+    "Jetify",
+    "nixpkgs",
+    "nixos",
+    "numtide",
+    "pkgs",
+    "direnv",
+    "envrc",
+    "CICD",
+    "Enno",
+    "PRUV",
+    "Shodo",
+    "Wordrabbit",
+    "typoless",
+    "ATOK",
+    "Nygard",
+    "lefthook",
+    "gitmoji",
+    "setlocale"
+  ]
 }
