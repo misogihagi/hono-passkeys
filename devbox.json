@@ -4,7 +4,8 @@
     "editorconfig-checker@latest",
     "nodePackages.cspell@latest",
     "typos@latest",
-    "lefthook@latest"
+    "lefthook@latest",
+    "nodejs@latest"
   ],
   "shell": {
     "init_hook": [
