@@ -21,6 +21,7 @@
     "lefthook",
     "gitmoji",
     "setlocale",
-    "greenframe"
+    "greenframe",
+    "textlint"
   ]
 }
