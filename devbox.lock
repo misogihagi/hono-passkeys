@@ -151,7 +151,7 @@
     },
     "nodejs@latest": {
       "last_modified": "2025-10-13T09:56:54Z",
-      "plugin_version": "0.0.2",
+      "plugin_version": "0.0.4",
       "resolved": "github:NixOS/nixpkgs/c12c63cd6c5eb34c7b4c3076c6a99e00fcab86ec#nodejs_24",
       "source": "devbox-search",
       "version": "24.10.0",
